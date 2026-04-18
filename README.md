@@ -1,35 +1,27 @@
-# 👋 Hi, I'm yijiedemotu!
+<h1 align="center" > Hi, I am Dahezhiquan 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yijiedemotu&label=Profile%20views&color=0e75b6&style=flat" alt="yijiedemotu" />
-</p>
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yijiedemotu" alt="yijiedemotu" />
-  </a>
-</p>
+<hr/>
+
+<div align="center">
 
 
+[![Hayat's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Connect with Me
+</div>
 
-<p align="center">
-  <a href="https://space.bilibili.com/492353986" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bilibili.svg" alt="Bilibili" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <strong>QQ: 3091948830</strong>
-</p>
 
----
+I am a computer science undergrad from Solapur, Maharashtra. Currently I am studying in VIT Vellore. I am very
+passionate about __web design__ and __frontend web development__
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br><br>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-</p>
+## 🔗 Connect with me on :
 
----
+[![Connect on LinkedIn](https://img.shields.io/badge/--website?label=My%20Website&logo=awesome-lists&style=social&logoColor=2257ea)](https://hayattamboli.vercel.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hayat-tamboli/)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/HayatTamboli)
 
-⭐️ From [yijiedemotu](https://github.com/yijiedemotu)
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
