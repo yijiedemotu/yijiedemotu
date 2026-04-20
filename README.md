@@ -4,9 +4,6 @@
 
 <hr/>
 
-🔗 Connect with me on:
-
-
 ### 🔗 Connect with me on:
 
 点击即可：
