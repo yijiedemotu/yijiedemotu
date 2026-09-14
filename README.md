@@ -1,4 +1,4 @@
-<h1 align="center" > Hi, I am yijiedemotu 👋</h1>
+<h1 align="center" > Hi, I am Gary 👋</h1>
 
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
